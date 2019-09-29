@@ -4,6 +4,7 @@ import router from "./router";
 import store from "./store";
 
 import "normalize.css/normalize.css"; // A modern alternative to CSS resets
+import "@/assets/styles/index.styl"; // global css
 
 import ElementUI from "element-ui";
 import "element-ui/lib/theme-chalk/index.css";
